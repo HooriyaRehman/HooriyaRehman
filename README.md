@@ -1,14 +1,28 @@
-## Hi there
-# 🌟 I’m Bint e Riaz — fearless soul, aesthetic mind.  
-Creating my own path in the world of ideas and code.  
-📍 Based in Pakistan | 💻 Learning & growing every day.  
+<h1 align="center">✨ Bint-e-Riyaz ✨</h1>
 
-> "Silence isn’t empty. It’s full of answers." 🌌
+<p align="center">
+  <em>Fearless Mind • Aesthetic with a Purpose • Gentle Soul</em> <br>
+  <em>Notes, Stories, Creative Songs, and Islamic Reflections</em>
+</p>
 
-## 💫 About Me
-- 🎓 Student of creativity & curiosity  
-- 🎨 I love ideas, art, and a bit of digital magic  
-- 📖 Exploring the world one thought at a time  
+---
 
-## 🚀 Coming Soon
-Stay tuned — I'm building something unique for the world to see ✨
+### 🌙 About Me
+I'm Bint-e-Riyaz — a creative soul with a deep love for Islam, learning, and sharing.  
+From digital notes to powerful stories, I craft and collect inspiration to share with the world.  
+Welcome to my little universe of purpose and peace 🌸
+
+---
+
+### 📌 What You'll Find Here
+
+- 📖 **Islamic Stories & Reflections**  
+- 📚 **Study Notes** (School & Beyond)  
+- 🎨 **Aesthetic Wallpapers & Quotes**  
+- 🧠 **My Learning Journey**
+
+---
+
+### 🤍 Let’s Connect Through Words, Not Likes.
+
+> ✨ May everything I share benefit someone out there. Ameen.  
