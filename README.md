@@ -1,4 +1,4 @@
-# 🌸✨ BINT-E-RIYAZ ✨🌸  
+# 🌸✨ BINT-E-RIAZ ✨🌸  
 ## ❝ A Fearless Mind • A Gentle Soul • A Purposeful Path ❞  
 
 🕊️ **Assalamu Alaikum wa Rahmatullah!**  
