@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there
+# 🌟 I’m Bint e Riaz — fearless soul, aesthetic mind.  
+Creating my own path in the world of ideas and code.  
+📍 Based in Pakistan | 💻 Learning & growing every day.  
 
-<!--
-**HooriyaRehman/HooriyaRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Silence isn’t empty. It’s full of answers." 🌌
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🎓 Student of creativity & curiosity  
+- 🎨 I love ideas, art, and a bit of digital magic  
+- 📖 Exploring the world one thought at a time  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Coming Soon
+Stay tuned — I'm building something unique for the world to see ✨
